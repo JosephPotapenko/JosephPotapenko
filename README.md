@@ -1,17 +1,20 @@
+
 # Joseph Potapenko
-### Proficient in Python, Java, C, Html, and knowledgeable in many other languages. 
+>I love **pizza**, don't take it _personally._<
 
-<!--
-**JosephPotapenko/JosephPotapenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
 
-Here are some ideas to get you started:
+- [Github Profile](https://github.com/JosephPotapenko)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- 3+ years of Customer Retention and Experience Services
+    - Retail Associate
+    - Customer Experience Colleague
+- 2+ years of Teaching and Tutoring Experience
+    - Teacher at a local nonprofit
+    - Teaching assistant at Eastern Washington University
+- Bilingual 
+    - Fluent in Russian (Reading, Writing, Interpreting)
+    - Intermediate communicaiton in Ukranian
+- Event Organization (2 years of volunteer at a local nonprofit)
+
