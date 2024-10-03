@@ -1,4 +1,5 @@
-## Hi there 👋
+# Joseph Potapenko
+### Proficient in Python, Java, C, Html, and knowledgeable in many other languages. 
 
 <!--
 **JosephPotapenko/JosephPotapenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
