@@ -17,4 +17,22 @@
     - Fluent in Russian (Reading, Writing, Interpreting)
     - Intermediate communicaiton in Ukranian
 - Event Organization (2 years of volunteer at a local nonprofit)
+- 3 years of experience in Programming
+    - Python
+    - Java
+    - C
+    - SQL
+    - Assembly
+- 3 year of Computer Related Skills
+    - Algorithms
+    - Software Development with Agile
+    - Data Structures
+    - Networking
+    - Cybersecurity
+    - Design Patterns
+    - Hardware Interfacing
+    - Github
+    - Linux
+    - Ubuntu and Virtual Machines
+    - Command Line Experience
 
