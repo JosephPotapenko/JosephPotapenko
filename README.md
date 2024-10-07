@@ -7,23 +7,23 @@
 - [Github Profile](https://github.com/JosephPotapenko)
 
 ## Skills
-- 3+ years of Customer Retention and Experience Services
+- **3+ years of Customer Retention and Experience Services**
     - Retail Associate
     - Customer Experience Colleague
-- 2+ years of Teaching and Tutoring Experience
+- **2+ years of Teaching and Tutoring Experience**
     - Teacher at a local nonprofit
     - Teaching assistant at Eastern Washington University
-- Bilingual 
+- **Bilingual** 
     - Fluent in Russian (Reading, Writing, Interpreting)
     - Intermediate communicaiton in Ukranian
-- Event Organization (2 years of volunteer at a local nonprofit)
-- 3 years of experience in Programming
+- **Event Organization (2 years of volunteer at a local nonprofit)**
+- **3 years of experience in Programming**
     - Python
     - Java
     - C
     - SQL
     - Assembly
-- 3 year of Computer Related Skills
+- **3 year of Computer Related Skills**
     - Algorithms
     - Software Development with Agile
     - Data Structures
@@ -35,4 +35,5 @@
     - Linux
     - Ubuntu and Virtual Machines
     - Command Line Experience
+    
 
