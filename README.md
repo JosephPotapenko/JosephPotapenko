@@ -1,7 +1,6 @@
 
 # Joseph Potapenko
->I love **pizza**, don't take it _personally.
-
+>I love **pizza**, don't take it _personally._
 - [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
 
 - [Github Profile](https://github.com/JosephPotapenko)
