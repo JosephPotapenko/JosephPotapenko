@@ -34,5 +34,6 @@
     - Linux
     - Ubuntu and Virtual Machines
     - Command Line Experience
+- **Websight and application Development and deployment**
     
 
