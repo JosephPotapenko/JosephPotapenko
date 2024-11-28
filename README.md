@@ -1,9 +1,9 @@
 
 # Joseph Potapenko
->I love **pizza**, don't take it _personally._
-- [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
-
+>"Our greatest fear should not be **failure**, but **suceeding** at something that  **_doesn't really matter._**"
 - [Github Profile](https://github.com/JosephPotapenko)
+
+- [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
 
 ## Skills
 - **3+ years of Customer Retention and Experience Services**
