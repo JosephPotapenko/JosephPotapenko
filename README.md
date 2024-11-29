@@ -1,6 +1,6 @@
 
 # Joseph Potapenko
->"Our greatest fear should not be **failure**, but **suceeding** at something that  **_doesn't really matter._**"
+>"Our greatest fear should not be **failure**, but **suceeding** at something that  <ins> **_doesn't really matter._**</ins> "
 - [Github Profile](https://github.com/JosephPotapenko)
 
 - [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
@@ -22,6 +22,9 @@
     - C
     - SQL
     - Assembly
+    - HTML
+    - CSS
+    - JSX
 - **3 year of Computer Related Skills**
     - Algorithms
     - Software Development with Agile
@@ -35,5 +38,16 @@
     - Ubuntu and Virtual Machines
     - Command Line Experience
 - **Websight and application Development and deployment**
+    - JavaScript Runtimes
+        - Node
+        - Deno
+    - Package Managers
+        - NPM
+        - PNPM
+    - Frameworks and Libraries
+        - Meta frameworks
+        - Tailwind frameworks
+        - Astro and Daisy UI
+
     
 
