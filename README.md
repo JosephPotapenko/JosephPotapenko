@@ -5,7 +5,7 @@
 
 - [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
 
--[Code Pen](https://codepen.io/JosephPotapenko)
+- [Code Pen](https://codepen.io/JosephPotapenko)
 
 ## Skills
 - **3+ years of Customer Retention and Experience Services**
