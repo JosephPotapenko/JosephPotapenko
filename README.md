@@ -39,6 +39,8 @@
     - Linux
     - Ubuntu and Virtual Machines
     - Command Line Experience
+    - CICD Implementation
+    - Employing Vite 
 - **Websight and application Development and deployment**
     - JavaScript Runtimes
         - Node
