@@ -8,6 +8,8 @@
 - [Code Pen](https://codepen.io/JosephPotapenko)
 
 ## Skills
+- **Retail Management Experience**
+    - Opperational Assistant Store Manager
 - **3+ years of Customer Retention and Experience Services**
     - Retail Associate
     - Customer Experience Colleague
