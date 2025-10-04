@@ -22,16 +22,17 @@
     - Fluent in Russian (Reading, Writing, Interpreting)
     - Intermediate communicaiton in Ukranian
 - **Event Organization (2 years of volunteer at a local nonprofit)**
-- **3 years of experience in Programming**
-    - Python
+- **4 years of experience in Programming Languages (Eastern Washington University)**
     - Java
+    - C#
+    - Python
+    - HTML
+    - CSS
     - C
     - SQL
     - Assembly
-    - HTML
-    - CSS
     - JSX
-- **3 year of Computer Related Skills**
+- **4 year of Computer Scince Related Skills (Eastern Washington University)**
     - Algorithms
     - Software Development with Agile
     - Data Structures
@@ -44,7 +45,8 @@
     - Ubuntu and Virtual Machines
     - Command Line Experience
     - CICD Implementation
-    - Employing Vite 
+    - Employing Vite
+    - Website Design and Development via Vercel and Netlify
 - **Websight and application Development and deployment**
     - JavaScript Runtimes
         - Node
