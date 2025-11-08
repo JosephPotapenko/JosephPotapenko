@@ -3,8 +3,6 @@
 >"Our greatest fear should not be **failure**, but **suceeding** at something that  <ins> **_doesn't really matter._**</ins> "
 - [Github Profile](https://github.com/JosephPotapenko)
 
-- [LinkedIn Profile](https://www.linkedin.com/in/joseph-potapenko-1788a7316/)
-
 - [Code Pen](https://codepen.io/JosephPotapenko)
 
 - [My Websight](https://josephpotapenko.github.io/)
