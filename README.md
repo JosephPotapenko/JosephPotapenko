@@ -2,7 +2,7 @@
 # Joseph Potapenko
 >"Our greatest fear should not be **failure**, but **suceeding** at something that  <ins> **_doesn't really matter._**</ins> "
 - [Github Profile](https://github.com/JosephPotapenko)
-
+- [CodePen](https://codepen.io/joepotap/pens/showcase)
 - [My Websight](https://josephpotapenko.github.io/)
 
 ## Skills
