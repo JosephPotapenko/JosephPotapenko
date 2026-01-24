@@ -5,6 +5,15 @@
 - [CodePen](https://codepen.io/joepotap/pens/showcase)
 - [My Websight](https://josephpotapenko.github.io/)
 
+## Summary
+I'm a Computer Science student at Eastern Washington University pursuing a Bachelor of Science with minors in Cybersecurity and Psychology, expected June 2026. I have a strong foundation in software development and front-end engineering, with experience in Java, Python, C, C#, SQL, and modern web technologies including JavaScript, React, Tailwind CSS, and .NET. I'm comfortable working with Git, Linux-based environments, and modern development workflows, and I enjoy learning new tools and systems by building and iterating.
+
+Alongside my technical background, I bring leadership and business experience with measurable impact. In a retail role, I generated about $220,000 in sales within six months, and later, as a manager, increased store sales by over 300 percent in under four months from my start date. Those experiences reinforced the importance of ownership, adaptability, and execution under pressure. I've also worked as a tutor and teaching assistant, where I helped others understand complex concepts and learned how strong communication and support contribute to effective teams. I'm bilingual in Russian with working proficiency in Ukrainian, and I'm motivated by solving meaningful problems, taking responsibility for my work, and continuing to grow as an engineer by contributing to projects that matter.
+
+## Education
+- **Bachelor of Science in Computer Science (BSCS)** — Eastern Washington University (June 2026)
+    - Minors: Cybersecurity and Psychology
+
 ## Skills
 - **Front end Development Internship (HTML, CSS, JavaScript, ReactJS, Tailwind CSS)**
 - **Retail Management Experience**
@@ -31,7 +40,8 @@
     - JSX
 - **4 year of Computer Scince Related Skills (Eastern Washington University)**
     - Algorithms
-    - Software Development with Agile
+    - Software Development
+    - Agile
     - Data Structures
     - Networking
     - Cybersecurity
@@ -55,6 +65,7 @@
         - Meta frameworks
         - Tailwind frameworks
         - Astro and Daisy UI
+        - .NET
 
     
 
