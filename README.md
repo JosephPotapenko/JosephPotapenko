@@ -6,6 +6,7 @@
 - [My Websight](https://josephpotapenko.github.io/)
 
 ## Skills
+- **Front end Development Internship (HTML, CSS, JavaScript, ReactJS, Tailwind CSS)**
 - **Retail Management Experience**
     - Opperational Assistant Store Manager
 - **3+ years of Customer Retention and Experience Services**
